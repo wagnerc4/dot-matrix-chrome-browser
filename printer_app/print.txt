@@ -1,0 +1,42 @@
+DRS CORRALES
+
+FRANCISCO CORRALES GONZALEZ
+Ced: 2-275-074
+Palmares, Perez Zeledon
+Tels: 2771-1550, 2770-9253
+
+Factura: 65318
+Fecha:06-03-2017
+Cliente:
+  Josue Navarro Mora
+Cedula: 114900023
+Direccion:  la hermosa
+Tel: 88822575
+
+--------------------------------
+Articulo_Empaque
+  Cantidad   Unitario   Subtotal
+--------------------------------
+m.maiz_2kg
+    1.00      423.9      423.9
+Total peso: 2.0
+--------------------------------
+Subtotal:           423.92
+Total:              423.92
+--------------------------------
+
+Recibido Conforme:_______________
+
+Firma:_____________________
+
+Cedula:____________________
+
+Revisado por:____________________
+
+Hora: 08:06:08
+
+Autorizado Mediante Resolucion
+Numero: 11-97 del 12/08/97,
+publicada en la Gaceta 171 del 05/09/97
+--- GRACIAS POR SU COMPRA ---
+www.granjalibre.com

@@ -17,3 +17,5 @@ ls -lh /dev/bus/usb/001/*
 ```
 
 More information: [https://hackaday.io/project/20200-chrome-escpos-printer-app](https://hackaday.io/project/20200-chrome-escpos-printer-app)
+
+In printer_app are an example: print.txt

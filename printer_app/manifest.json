@@ -1,0 +1,12 @@
+{
+  "name": "Print App",
+  "manifest_version": 2,
+  "version": "0.1",
+  "minimum_chrome_version": "40",
+  "app": {
+    "background": {
+      "scripts": ["bg.js"]
+    }
+  },
+  "permissions": ["fileSystem", "usb", {"usbDevices": [{"vendorId": 1208, "productId": 514}]}]
+}

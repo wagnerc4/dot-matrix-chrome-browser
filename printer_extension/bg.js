@@ -1,4 +1,4 @@
-// Browser action                                                                                                                                                                                      
+// Browser action
 chrome.browserAction.onClicked.addListener(function(){
     chrome.management.getAll(function(info) {
       for (var i = 0; i < info.length; i++) {
